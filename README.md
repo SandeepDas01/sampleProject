@@ -2,6 +2,5 @@
 
 Continuous delivery
 
-hy
 
 Sandeep Das
