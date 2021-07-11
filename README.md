@@ -1,6 +1,6 @@
 # maven-project
 
-Continuous Delivery Project
+Continuous Delivery Project.
 
 
 Sandeep Das
